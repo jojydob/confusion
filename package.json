@@ -10,7 +10,15 @@
   },
   "author": "",
   "license": "ISC",
-    "devDependencies": {
-    "lite-server": "^2.2.2"
-  }
+  "devDependencies": {
+    "lite-server": "^2.3.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jojydob/confusion.git"
+  },
+  "bugs": {
+    "url": "https://github.com/jojydob/confusion/issues"
+  },
+  "homepage": "https://github.com/jojydob/confusion#readme"
 }
