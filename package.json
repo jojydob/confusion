@@ -20,5 +20,8 @@
   "bugs": {
     "url": "https://github.com/jojydob/confusion/issues"
   },
-  "homepage": "https://github.com/jojydob/confusion#readme"
+  "homepage": "https://github.com/jojydob/confusion#readme",
+  "dependencies": {
+    "bootstrap": "^4.0.0-alpha.6"
+  }
 }
